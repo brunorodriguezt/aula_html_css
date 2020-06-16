@@ -8,13 +8,13 @@ header{
     margin-top: 50px;
 }
 h1 {
-    color: blue;
+    color: black;
     font-family: fantasy;
 }
 
 h2{
  
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 p {
@@ -22,6 +22,7 @@ p {
 }
 footer{
     margin-bottom: 30px;
+    margin-top: 40px;
 }
 img {
     margin-bottom: 40px;
